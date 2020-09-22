@@ -7,5 +7,22 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "roles": [
+    {
+      "id": 1,
+      "name": "test role1",
+	  "status": "A"
+    },
+    {
+      "id": 2,
+      "name": "test role2",
+	  "status": "A"
+    },
+    {
+      "id": 3,
+      "name": "test role3",
+	  "status": "A"
+    }
+  ],
 }
