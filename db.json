@@ -24,5 +24,22 @@
       "name": "test role3",
 	  "status": "A"
     }
+  ],
+  "areas": [
+    {
+      "id": 1,
+      "name": "test area 1",
+	  "status": "A"
+    },
+    {
+      "id": 2,
+      "name": "test area 2",
+	  "status": "A"
+    },
+    {
+      "id": 3,
+      "name": "test area 3",
+	  "status": "A"
+    }
   ]
 }
