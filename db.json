@@ -11,17 +11,20 @@
   "roles": [
     {
       "id": 1,
-      "name": "test role1",
+      "name": "Project Manager",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
 	  "status": "A"
     },
     {
       "id": 2,
-      "name": "test role2",
+      "name": "Project Team",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
 	  "status": "A"
     },
     {
       "id": 3,
-      "name": "test role3",
+      "name": "Database Admin",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
 	  "status": "A"
     }
   ],
