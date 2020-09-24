@@ -18,30 +18,53 @@
     {
       "id": 2,
       "name": "Project Team",
-      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Sport-Wrestler-Female-Dark-icon.png",
 	  "status": "A"
     },
     {
       "id": 3,
       "name": "Database Admin",
-      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Occupations-Firefighter-Female-Dark-icon.png",
+	  "status": "A"
+    },
+    {
+      "id": 4,
+      "name": "Product Owner",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Historical-Viking-Male-icon.png",
+	  "status": "A"
+    },
+    {
+      "id": 5,
+      "name": "Security Officer",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Historical-Cowboy-icon.png",
+	  "status": "A"
+    },
+    {
+      "id": 6,
+      "name": "QA Team",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Occupations-Writer-Male-Light-icon.png",
 	  "status": "A"
     }
   ],
   "areas": [
     {
       "id": 1,
-      "name": "test area 1",
+      "name": "Performance review",
 	  "status": "A"
     },
     {
       "id": 2,
-      "name": "test area 2",
+      "name": "New process definition",
 	  "status": "A"
     },
     {
       "id": 3,
-      "name": "test area 3",
+      "name": "Reporting for Stakeholders",
+	  "status": "A"
+    },
+    {
+      "id": 4,
+      "name": "Team Goles",
 	  "status": "A"
     }
   ],
@@ -49,25 +72,31 @@
     {
       "id": 1,
       "name": "Decir",
-      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+      "imageUrl": "https://miro.medium.com/max/360/1*ovMZMqpemre3ja5UwZzW6w.png",
 	  "status": "A"
     },
     {
       "id": 2,
       "name": "Vender",
-      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+      "imageUrl": "https://miro.medium.com/max/354/1*Spp2OiN57oy4015gH2NMAQ.png",
 	  "status": "A"
     },
     {
       "id": 3,
-      "name": "Aconsejar",
-      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+      "name": "Preguntar",
+      "imageUrl": "https://miro.medium.com/max/342/1*arHd4gEJNBRM9XyyzSlc5A.png",
 	  "status": "A"
     },
     {
       "id": 4,
       "name": "Consultar",
-      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+      "imageUrl": "https://miro.medium.com/max/366/1*N_9cyhU4WBpmYY9ysQM_Cw.png",
+	  "status": "A"
+    },
+    {
+      "id": 5,
+      "name": "Delegar",
+      "imageUrl": "https://miro.medium.com/max/362/1*4veMptXNMIDLB3w4afChww.png",
 	  "status": "A"
     }
   ]
