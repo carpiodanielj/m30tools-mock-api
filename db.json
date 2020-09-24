@@ -44,5 +44,31 @@
       "name": "test area 3",
 	  "status": "A"
     }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "name": "Decir",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+	  "status": "A"
+    },
+    {
+      "id": 2,
+      "name": "Vender",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+	  "status": "A"
+    },
+    {
+      "id": 3,
+      "name": "Aconsejar",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+	  "status": "A"
+    },
+    {
+      "id": 4,
+      "name": "Consultar",
+      "imageUrl": "https://icons.iconarchive.com/icons/icons-land/vista-people/64/Office-Customer-Male-Light-icon.png",
+	  "status": "A"
+    }
   ]
 }
